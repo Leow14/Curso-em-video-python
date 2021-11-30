@@ -1,0 +1,5 @@
+y = ('Abono de faltas')
+a = int(input('Abono de faltas:'))
+x = abs(a + (-4))
+print('O valor de x é', x)
+print(f'Este é meu\n{y}')
